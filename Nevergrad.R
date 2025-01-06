@@ -1,0 +1,6 @@
+Sys.setenv(RETICULATE_PYTHON = "C:/Users/shaik/AppData/Local/r-miniconda/envs/r-reticulate/python.exe")
+library(reticulate)
+conda_create("r-reticulate")
+use_condaenv("r-reticulate")
+conda_install("r-reticulate", "nevergrad", pip=TRUE)
+py_config()
