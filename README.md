@@ -40,3 +40,11 @@ Marketing attribution is a critical process for evaluating the effectiveness of 
 1. Clone this repository:
    ```bash
    git clone https://github.com/MufidShaikh/Predicting-ROI-On-Market-Attribution-Using-Market-Mix-Modelling-MMM.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd Predicting-ROI-On-Market-Attribution-Using-Market-Mix-Modelling-MMM
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
